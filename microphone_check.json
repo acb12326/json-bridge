@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "為了為一二三"
+    "trigger": false,
+    "sound_input_sentence": "Wait, wait, wait."
 }
