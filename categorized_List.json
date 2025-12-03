@@ -1,0 +1,24 @@
+{
+  "valid_items": [
+    [
+      0,
+      "JOHNNIE WALKER Whiskey"
+    ],
+    [
+      1,
+      "Sprite"
+    ],
+    [
+      2,
+      "Cola"
+    ],
+    [
+      3,
+      "JOHN BARR Whiskey"
+    ]
+  ],
+  "excluded_item": {
+    "Wine column": false,
+    "XARM": false
+  }
+}

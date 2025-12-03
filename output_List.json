@@ -1,0 +1,66 @@
+[
+    {
+        "name": "JOHNNIE WALKER Whiskey",
+        "confidence": 0.6736,
+        "bbox": [
+            881,
+            344,
+            967,
+            555
+        ],
+        "position_3d": {
+            "x": 0.3685,
+            "y": 0.1223,
+            "z": 1.256
+        },
+        "id": 0
+    },
+    {
+        "name": "Sprite",
+        "confidence": 0.8386,
+        "bbox": [
+            828,
+            478,
+            880,
+            560
+        ],
+        "position_3d": {
+            "x": 0.2589,
+            "y": 0.2078,
+            "z": 1.194
+        },
+        "id": 1
+    },
+    {
+        "name": "Cola",
+        "confidence": 0.8429,
+        "bbox": [
+            757,
+            489,
+            807,
+            577
+        ],
+        "position_3d": {
+            "x": 0.1569,
+            "y": 0.2152,
+            "z": 1.136
+        },
+        "id": 2
+    },
+    {
+        "name": "JOHN BARR Whiskey",
+        "confidence": 0.757,
+        "bbox": [
+            663,
+            340,
+            739,
+            609
+        ],
+        "position_3d": {
+            "x": 0.0537,
+            "y": 0.135,
+            "z": 1.082
+        },
+        "id": 3
+    }
+]
