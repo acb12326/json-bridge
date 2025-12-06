@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "我偏好酸的"
+    "trigger": false,
+    "sound_input_sentence": "沒有"
 }
