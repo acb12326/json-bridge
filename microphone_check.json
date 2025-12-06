@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "喂喂喂聽得到嗎"
+    "trigger": false,
+    "sound_input_sentence": "我以為123"
 }
