@@ -1,4 +1,4 @@
 {
-    "trigger": true,
+    "trigger": false,
     "sound_input_sentence": "我要翻的味道"
 }
