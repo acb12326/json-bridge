@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "我要酸的味道"
+    "trigger": false,
+    "sound_input_sentence": "可以調一杯酒嗎?"
 }
