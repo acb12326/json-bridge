@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "喂喂 聽到嗎"
+    "trigger": false,
+    "sound_input_sentence": "喂喂 聽得到嗎"
 }
