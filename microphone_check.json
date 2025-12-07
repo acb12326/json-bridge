@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "今天天氣很好"
+    "trigger": false,
+    "sound_input_sentence": "今天會下雨"
 }
