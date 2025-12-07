@@ -1,0 +1,18 @@
+{
+    "Mix List": {
+            "recipe": [
+                {
+                    "stuff": "Cola",
+                    "place": 2,
+                    "volume_ml_sec": 1.5,
+                    "type": "soda"
+                },
+                {
+                    "stuff": "JOHN BARR Whiskey",
+                    "place": 2,
+                    "volume_ml_sec": 3,
+                    "type": "soda"
+                }
+            ]
+        }
+}

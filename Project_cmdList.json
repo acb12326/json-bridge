@@ -1,0 +1,6 @@
+{
+    "start_movement": {
+        "XARM": false,
+        "YOLO": false
+    }
+}
