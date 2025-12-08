@@ -1,4 +1,4 @@
 {
-    "trigger": true,
+    "trigger": false,
     "sound_input_sentence": "今天風很大"
 }
