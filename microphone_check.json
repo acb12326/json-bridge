@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "Thanks for watching!"
+    "trigger": false,
+    "sound_input_sentence": "1號請問今天過得怎麼樣"
 }
