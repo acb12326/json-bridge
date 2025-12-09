@@ -1,4 +1,4 @@
 {
-    "trigger": true,
-    "sound_input_sentence": "請問你今天過得怎麼樣"
+    "trigger": false,
+    "sound_input_sentence": "可以幫我調一杯酒嗎?"
 }
