@@ -2,18 +2,22 @@
     "valid_items": [
         [
             0,
-            "JOHN BARR Whiskey"
+            "Gin"
         ],
         [
             1,
-            "Cola"
+            "JOHN BARR Whiskey"
         ],
         [
             2,
-            "Sprite"
+            "Cola"
         ],
         [
             3,
+            "Sprite"
+        ],
+        [
+            4,
             "JOHNNIE WALKER Whiskey"
         ]
     ],
