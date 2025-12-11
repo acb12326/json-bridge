@@ -1,11 +1,11 @@
 {
     "start_movement": {
         "XARM": false,
-        "YOLO": false
+        "YOLO": true
     },
     "movement_over": {
-        "XARM_START_MIXING": true,
-        "XARM_MIXING_OVER": true,
+        "XARM_START_MIXING": false,
+        "XARM_MIXING_OVER": false,
         "YOLO": true
     }
 }
