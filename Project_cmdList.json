@@ -6,7 +6,7 @@
     "movement_over": {
         "XARM_START_MIXING": false,
         "XARM_MIXING_OVER": false,
-        "YOLO": true
-    }
-
+        "YOLO": false
+    },
+    "update_time": 17000000123
 }
