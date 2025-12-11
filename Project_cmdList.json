@@ -1,6 +1,6 @@
 {
     "start_movement": {
-        "XARM": true,
+        "XARM": false,
         "YOLO": true
     },
     "movement_over": {
