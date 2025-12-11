@@ -2,11 +2,11 @@
     "valid_items": [
         [
             0,
-            "JOHNNIE WALKER Whiskey"
+            "Gin"
         ],
         [
             1,
-            "Sprite"
+            "JOHN BARR Whiskey"
         ],
         [
             2,
@@ -14,7 +14,11 @@
         ],
         [
             3,
-            "JOHN BARR Whiskey"
+            "Sprite"
+        ],
+        [
+            4,
+            "JOHNNIE WALKER Whiskey"
         ]
     ],
     "excluded_item": {
