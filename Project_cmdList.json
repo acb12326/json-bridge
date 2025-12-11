@@ -6,7 +6,6 @@
     "movement_over": {
         "XARM_START_MIXING": false,
         "XARM_MIXING_OVER": false,
-        "YOLO": true
+        "YOLO": false
     }
-
 }
