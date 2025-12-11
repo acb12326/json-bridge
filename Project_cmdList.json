@@ -1,11 +1,18 @@
-{
-    "start_movement":{
-        "XARM": false,
-        "YOLO": false
-    },
-    "movement_over":{
-        "XARM_START_MIXING": false,
-        "XARM_MIXING_OVER": false,
-        "YOLO": false
-    }
+{
+    "Mix List": {
+        "recipe": [
+            {
+                "stuff": "Cola",
+                "place": 2,
+                "volume_ml_sec": 1.5,
+                "type": "soda"
+            },
+            {
+                "stuff": "JOHN BARR Whiskey",
+                "place": 2,
+                "volume_ml_sec": 3,
+                "type": "soda"
+            }
+        ]
+    }
 }
